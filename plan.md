@@ -1,7 +1,7 @@
-# Project Plan - SYD Group 03
+# Project Plan - MEL Group 40
 
 ## Group Information
-- **Group Name**: SYD Group 03
+- **Group Name**: MEL Group 40
 - **Project**: COIT20246 Networking and Cyber Security
 - **Campus**: Sydney
 - **Project Duration**: 8 weeks (Week 4 - Week 12)
@@ -279,4 +279,5 @@ Based on the scenario requirements, we have made the following assumptions for *
 **Document Created**: September 8, 2025  
 **Last Updated**: September 8, 2025  
 **Next Review**: September 10, 2025  
+
 **Document Owners**: SYD Group 03 (Arpit Patel, Rushi Nayi)
