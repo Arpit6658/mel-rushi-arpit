@@ -280,4 +280,5 @@ Based on the scenario requirements, we have made the following assumptions for *
 **Last Updated**: September 8, 2025  
 **Next Review**: September 10, 2025  
 
-**Document Owners**: SYD Group 03 (Arpit Patel, Rushi Nayi)
+**Document Owners**: MEL Group 40 (Arpit Patel, Rushi Nayi)
+
