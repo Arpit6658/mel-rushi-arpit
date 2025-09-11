@@ -1,4 +1,4 @@
-# Network Design - SYD Group 03
+# Network Design - MEL Group 40
 
 ## 1. Project Assumptions
 
@@ -238,4 +238,5 @@ The design emphasizes:
 | Equipment | Model | Specifications | Quantity | Unit Price (AUD) | Total Price (AUD) | Supplier Link |
 |-----------|--------|----------------|-----------|------------------|-------------------|---------------|
 | **UPS Systems** | APC Smart-UPS SRT 5000VA | 5kVA, online double conversion | 2 | $4,500 | $9,000 | [APC Australia](https://www.apc.com/shop/au/en/products/APC-Smart-UPS-SRT-5000VA-230V/P-SRT5KXLI) |
+
 | **Server Racks** | APC NetShelter SX 42U | 42U with cable management | 2 | $1,800 | $3,600 | [APC Australia](https://www.apc.com/shop/au/en/products/NetShelter-SX-42U-600mm-Wide-x-1070mm-Deep-
