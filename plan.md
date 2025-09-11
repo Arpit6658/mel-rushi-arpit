@@ -3,7 +3,7 @@
 ## Group Information
 - **Group Name**: MEL Group 40
 - **Project**: COIT20246 Networking and Cyber Security
-- **Campus**: Sydney
+- **Campus**: Melbourne
 - **Project Duration**: 8 weeks (Week 4 - Week 12)
 
 ### Group Members
@@ -281,4 +281,5 @@ Based on the scenario requirements, we have made the following assumptions for *
 **Next Review**: September 10, 2025  
 
 **Document Owners**: MEL Group 40 (Arpit Patel, Rushi Nayi)
+
 
