@@ -1,0 +1,17 @@
+Category,Model,Type,Price_AUD,Supplier,Supplier_URL,Availability,Key_Specifications
+Networking,Cisco Catalyst 9500-48Y4C,Core Switch,42000,Secure IT Store,https://www.secureitstore.com.au/C9500-48Y4C.asp,In Stock,"Ports: 48 x 25G SFP28, 4 x 100G QSFP28; Power: 550W; Capacity: 3.2 Tbps"
+Networking,Cisco Catalyst 9500-32QC,Backup Core Switch,38000,Secure IT Store,https://www.secureitstore.com.au/C9500-32QC.asp,In Stock,Ports: 32 x 100G QSFP28; Power: 650W; Capacity: 6.4 Tbps
+Networking,Cisco Catalyst 9300-48P,Distribution Switch,8500,Device Deal,https://www.devicedeal.com.au/switches/cisco-switches/catalyst-9300/,In Stock,"Ports: 48 x 1G copper, 4 x 10G SFP+; Power: 250W; Capacity: 176 Gbps"
+Networking,Cisco Catalyst 9200-24P,Access Switch,3200,Device Deal,https://www.devicedeal.com.au/switches/cisco-switches/catalyst-9200/,In Stock,"Ports: 24 x 1G copper, 4 x 10G SFP+; Power: 120W; Capacity: 88 Gbps"
+Networking,Cisco ISR 4431,WAN Router,14092,Melbourne Global,https://www.melbourneglobal.com.au/cisco-isr4431-k9-cisco-isr-4431-4ge-3nim-8g-flash-4g-dram-ipb/,In Stock,"RAM: 8GB DRAM, 8GB Flash; Power: 180W"
+Networking,Cisco ISR 4321,Branch/Backup Router,8500,Secure IT Store,https://www.secureitstore.com.au/ISR-4321.asp,In Stock,"RAM: 4GB DRAM, 4GB Flash; Power: 90W"
+Networking,Cisco ASA 5516-X,Next-Generation Firewall,6500,Device Deal,https://www.devicedeal.com.au/firewalls/cisco-firewalls/asa-5500-x/,In Stock,"RAM: 8GB DRAM, 8GB Flash; Power: 68W"
+Networking,Cisco ASA 5508-X,Branch Firewall,3800,Device Deal,https://www.devicedeal.com.au/firewalls/cisco-firewalls/asa-5500-x/,In Stock,"RAM: 4GB DRAM, 8GB Flash; Power: 45W"
+Networking,Cisco 9800-CL,Wireless Controller,4200,Secure IT Store,https://www.secureitstore.com.au/C9800-CL-K9.asp,In Stock,
+Networking,Cisco Catalyst 9120AXI,WiFi 6 Access Point,850,Device Deal,https://www.devicedeal.com.au/wireless/cisco-wireless/catalyst-9100/,In Stock,Power: 25.5W
+Servers,Dell PowerEdge R650,Application Server,8500,Dell Australia,https://www.dell.com/en-au/shop/servers-storage-and-networking/poweredge-r650-rack-server/spd/poweredge-r650,Build to Order,"CPU: 2x Intel Xeon Silver 4314 (2.4GHz, 16-core); RAM: 64GB DDR4 ECC (Expandable to 4TB); Storage: 2TB NVMe SSD"
+Servers,Dell PowerEdge R350,Entry Server,5200,Dell Australia,https://www.dell.com/en-au/shop/servers-storage-and-networking/poweredge-r350-rack-server/spd/poweredge-r350,Build to Order,"CPU: Intel Xeon E-2378G (2.8GHz, 8-core); RAM: 32GB DDR4 ECC (Expandable to 128GB); Storage: 1TB or 2TB NVMe SSD"
+Servers,Dell PowerEdge R750,High-Performance Server,12000,Dell Australia,https://www.dell.com/en-au/shop/servers-storage-and-networking/poweredge-r750-rack-server/spd/poweredge-r750,Build to Order,"CPU: 2x Intel Xeon Silver 4314 (2.4GHz, 16-core); RAM: 128GB DDR4 ECC (Expandable to 8TB); Storage: 20TB HDD RAID Array + SSD Cache"
+Infrastructure,APC Smart-UPS SRT 5000VA,UPS System,4500,APC Australia,https://www.apc.com/shop/au/en/products/APC-Smart-UPS-SRT-5000VA-230V/P-SRT5KXLI,In Stock,
+Infrastructure,APC NetShelter SX 42U,Server Rack,1800,APC Australia,https://www.apc.com/shop/au/en/products/NetShelter-SX-42U-600mm-Wide-x-1070mm-Deep-Enclosure-with-Sides-Black/P-AR3100,In Stock,
+Infrastructure,Panduit Mini-Com 48-Port,Patch Panel,250,RS Components,https://au.rs-online.com/web/p/patch-panels/1251849/,In Stock,Ports: 48 x RJ45 Cat6A

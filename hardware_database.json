@@ -1,0 +1,464 @@
+{
+  "networking": {
+    "cisco_catalyst_9500_48y4c": {
+      "model": "Cisco Catalyst 9500-48Y4C",
+      "category": "Core Switch",
+      "specifications": {
+        "ports": "48 x 25G SFP28, 4 x 100G QSFP28",
+        "switching_capacity": "3.2 Tbps",
+        "forwarding_rate": "2380 Mpps",
+        "power_consumption": "550W",
+        "dimensions": "44 x 47 x 4.4 cm",
+        "weight": "11 kg",
+        "features": [
+          "StackWise-480",
+          "Redundant PSU",
+          "Layer 3 Routing",
+          "Advanced QoS"
+        ]
+      },
+      "price_aud": 42000,
+      "supplier_links": [
+        {
+          "supplier": "Secure IT Store",
+          "url": "https://www.secureitstore.com.au/C9500-48Y4C.asp",
+          "price": 42000,
+          "availability": "In Stock"
+        },
+        {
+          "supplier": "Device Deal",
+          "url": "https://www.devicedeal.com.au/switches/cisco-switches/catalyst-9500/",
+          "price": 41500,
+          "availability": "2-3 Days"
+        }
+      ]
+    },
+    "cisco_catalyst_9500_32qc": {
+      "model": "Cisco Catalyst 9500-32QC",
+      "category": "Backup Core Switch",
+      "specifications": {
+        "ports": "32 x 100G QSFP28",
+        "switching_capacity": "6.4 Tbps",
+        "forwarding_rate": "4760 Mpps",
+        "power_consumption": "650W",
+        "dimensions": "44 x 47 x 4.4 cm",
+        "weight": "12 kg",
+        "features": [
+          "StackWise-480",
+          "Redundant PSU",
+          "Layer 3 Routing",
+          "Advanced Security"
+        ]
+      },
+      "price_aud": 38000,
+      "supplier_links": [
+        {
+          "supplier": "Secure IT Store",
+          "url": "https://www.secureitstore.com.au/C9500-32QC.asp",
+          "price": 38000,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "cisco_catalyst_9300_48p": {
+      "model": "Cisco Catalyst 9300-48P",
+      "category": "Distribution Switch",
+      "specifications": {
+        "ports": "48 x 1G copper, 4 x 10G SFP+",
+        "switching_capacity": "176 Gbps",
+        "forwarding_rate": "130.95 Mpps",
+        "power_consumption": "250W",
+        "poe_budget": "370W PoE+",
+        "dimensions": "44.5 x 44 x 4.4 cm",
+        "weight": "5.5 kg",
+        "features": [
+          "StackWise-480",
+          "Layer 3 Routing",
+          "Advanced Security",
+          "PoE+"
+        ]
+      },
+      "price_aud": 8500,
+      "supplier_links": [
+        {
+          "supplier": "Device Deal",
+          "url": "https://www.devicedeal.com.au/switches/cisco-switches/catalyst-9300/",
+          "price": 8500,
+          "availability": "In Stock"
+        },
+        {
+          "supplier": "Melbourne Global",
+          "url": "https://www.melbourneglobal.com.au/cisco-catalyst-9300-48p/",
+          "price": 8200,
+          "availability": "1-2 Days"
+        }
+      ]
+    },
+    "cisco_catalyst_9200_24p": {
+      "model": "Cisco Catalyst 9200-24P",
+      "category": "Access Switch",
+      "specifications": {
+        "ports": "24 x 1G copper, 4 x 10G SFP+",
+        "switching_capacity": "88 Gbps",
+        "forwarding_rate": "65.47 Mpps",
+        "power_consumption": "120W",
+        "poe_budget": "185W PoE+",
+        "dimensions": "44.5 x 25 x 4.4 cm",
+        "weight": "3.2 kg",
+        "features": [
+          "Smart Operations",
+          "Layer 3 Lite",
+          "Advanced Security",
+          "Energy Efficient"
+        ]
+      },
+      "price_aud": 3200,
+      "supplier_links": [
+        {
+          "supplier": "Device Deal",
+          "url": "https://www.devicedeal.com.au/switches/cisco-switches/catalyst-9200/",
+          "price": 3200,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "cisco_isr_4431": {
+      "model": "Cisco ISR 4431",
+      "category": "WAN Router",
+      "specifications": {
+        "interfaces": "3 x GE, 2 x NIM slots, 1 x SM slot",
+        "performance": "100 Mbps - 2 Gbps",
+        "memory": "8GB DRAM, 8GB Flash",
+        "vpn_throughput": "250 Mbps",
+        "power_consumption": "180W",
+        "dimensions": "44 x 48 x 8.8 cm",
+        "weight": "8.6 kg",
+        "features": [
+          "IWAN",
+          "Application Visibility",
+          "Advanced Security",
+          "Voice/Video"
+        ]
+      },
+      "price_aud": 14092,
+      "supplier_links": [
+        {
+          "supplier": "Melbourne Global",
+          "url": "https://www.melbourneglobal.com.au/cisco-isr4431-k9-cisco-isr-4431-4ge-3nim-8g-flash-4g-dram-ipb/",
+          "price": 14092,
+          "availability": "In Stock"
+        },
+        {
+          "supplier": "Secure IT Store",
+          "url": "https://www.secureitstore.com.au/ISR-4431.asp",
+          "price": 13800,
+          "availability": "2-3 Days"
+        }
+      ]
+    },
+    "cisco_isr_4321": {
+      "model": "Cisco ISR 4321",
+      "category": "Branch/Backup Router",
+      "specifications": {
+        "interfaces": "2 x GE, 2 x NIM slots, 1 x SM slot",
+        "performance": "50 Mbps - 100 Mbps",
+        "memory": "4GB DRAM, 4GB Flash",
+        "vpn_throughput": "100 Mbps",
+        "power_consumption": "90W",
+        "dimensions": "44 x 36 x 4.4 cm",
+        "weight": "4.5 kg",
+        "features": [
+          "IWAN",
+          "Embedded Security",
+          "Voice Ready",
+          "Cloud Management"
+        ]
+      },
+      "price_aud": 8500,
+      "supplier_links": [
+        {
+          "supplier": "Secure IT Store",
+          "url": "https://www.secureitstore.com.au/ISR-4321.asp",
+          "price": 8500,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "cisco_asa_5516_x": {
+      "model": "Cisco ASA 5516-X",
+      "category": "Next-Generation Firewall",
+      "specifications": {
+        "firewall_throughput": "1.2 Gbps",
+        "ips_throughput": "400 Mbps",
+        "vpn_throughput": "200 Mbps",
+        "concurrent_connections": "400000",
+        "interfaces": "8 x GE, 1 x Management",
+        "memory": "8GB DRAM, 8GB Flash",
+        "power_consumption": "68W",
+        "features": [
+          "Next-Gen IPS",
+          "Application Control",
+          "URL Filtering",
+          "Advanced Malware Protection"
+        ]
+      },
+      "price_aud": 6500,
+      "supplier_links": [
+        {
+          "supplier": "Device Deal",
+          "url": "https://www.devicedeal.com.au/firewalls/cisco-firewalls/asa-5500-x/",
+          "price": 6500,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "cisco_asa_5508_x": {
+      "model": "Cisco ASA 5508-X",
+      "category": "Branch Firewall",
+      "specifications": {
+        "firewall_throughput": "300 Mbps",
+        "ips_throughput": "125 Mbps",
+        "vpn_throughput": "100 Mbps",
+        "concurrent_connections": "100000",
+        "interfaces": "8 x GE, 1 x Management",
+        "memory": "4GB DRAM, 8GB Flash",
+        "power_consumption": "45W",
+        "features": [
+          "Next-Gen IPS",
+          "Application Visibility",
+          "SSL/IPSec VPN",
+          "Threat Intelligence"
+        ]
+      },
+      "price_aud": 3800,
+      "supplier_links": [
+        {
+          "supplier": "Device Deal",
+          "url": "https://www.devicedeal.com.au/firewalls/cisco-firewalls/asa-5500-x/",
+          "price": 3800,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "cisco_9800_cl": {
+      "model": "Cisco 9800-CL",
+      "category": "Wireless Controller",
+      "specifications": {
+        "ap_capacity": "500 Access Points",
+        "concurrent_clients": "8000",
+        "throughput": "20 Gbps",
+        "deployment": "Cloud-based/Virtual",
+        "management": "Cisco DNA Center",
+        "features": [
+          "WiFi 6 Support",
+          "AI/ML Analytics",
+          "Centralized Policy",
+          "Zero Trust Security"
+        ]
+      },
+      "price_aud": 4200,
+      "supplier_links": [
+        {
+          "supplier": "Secure IT Store",
+          "url": "https://www.secureitstore.com.au/C9800-CL-K9.asp",
+          "price": 4200,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "cisco_catalyst_9120axi": {
+      "model": "Cisco Catalyst 9120AXI",
+      "category": "WiFi 6 Access Point",
+      "specifications": {
+        "wifi_standard": "802.11ax (WiFi 6)",
+        "data_rates": "Up to 2.4 Gbps",
+        "spatial_streams": "4x4:4 MIMO",
+        "frequency_bands": "2.4GHz, 5GHz",
+        "ethernet": "2.5 GBASE-T",
+        "power_consumption": "25.5W",
+        "antenna": "Internal omnidirectional",
+        "features": [
+          "OFDMA",
+          "MU-MIMO",
+          "Target Wake Time",
+          "WPA3",
+          "Advanced Location Services"
+        ]
+      },
+      "price_aud": 850,
+      "supplier_links": [
+        {
+          "supplier": "Device Deal",
+          "url": "https://www.devicedeal.com.au/wireless/cisco-wireless/catalyst-9100/",
+          "price": 850,
+          "availability": "In Stock"
+        }
+      ]
+    }
+  },
+  "servers": {
+    "dell_poweredge_r650": {
+      "model": "Dell PowerEdge R650",
+      "category": "Application Server",
+      "specifications": {
+        "processors": "2x Intel Xeon Silver 4314 (2.4GHz, 16-core)",
+        "memory": "64GB DDR4 ECC (Expandable to 4TB)",
+        "storage": "2TB NVMe SSD",
+        "network": "4x 1GbE, Optional 10/25GbE",
+        "power_supply": "Dual 750W Redundant PSU",
+        "form_factor": "1U Rack Server",
+        "dimensions": "48.3 x 43.4 x 8.6 cm",
+        "features": [
+          "iDRAC9",
+          "OpenManage",
+          "RAID Controller",
+          "TPM 2.0"
+        ]
+      },
+      "price_aud": 8500,
+      "supplier_links": [
+        {
+          "supplier": "Dell Australia",
+          "url": "https://www.dell.com/en-au/shop/servers-storage-and-networking/poweredge-r650-rack-server/spd/poweredge-r650",
+          "price": 8500,
+          "availability": "Build to Order"
+        }
+      ]
+    },
+    "dell_poweredge_r350": {
+      "model": "Dell PowerEdge R350",
+      "category": "Entry Server",
+      "specifications": {
+        "processors": "Intel Xeon E-2378G (2.8GHz, 8-core)",
+        "memory": "32GB DDR4 ECC (Expandable to 128GB)",
+        "storage": "1TB or 2TB NVMe SSD",
+        "network": "2x 1GbE, Optional 10GbE",
+        "power_supply": "Single 350W PSU",
+        "form_factor": "1U Rack Server",
+        "dimensions": "48.3 x 43.4 x 4.3 cm",
+        "features": [
+          "iDRAC9 Basic",
+          "OpenManage",
+          "Hardware RAID",
+          "TPM 2.0"
+        ]
+      },
+      "price_aud": 5200,
+      "supplier_links": [
+        {
+          "supplier": "Dell Australia",
+          "url": "https://www.dell.com/en-au/shop/servers-storage-and-networking/poweredge-r350-rack-server/spd/poweredge-r350",
+          "price": 5200,
+          "availability": "Build to Order"
+        }
+      ]
+    },
+    "dell_poweredge_r750": {
+      "model": "Dell PowerEdge R750",
+      "category": "High-Performance Server",
+      "specifications": {
+        "processors": "2x Intel Xeon Silver 4314 (2.4GHz, 16-core)",
+        "memory": "128GB DDR4 ECC (Expandable to 8TB)",
+        "storage": "20TB HDD RAID Array + SSD Cache",
+        "network": "4x 1GbE, Optional 25/100GbE",
+        "power_supply": "Dual 800W Redundant PSU",
+        "form_factor": "2U Rack Server",
+        "dimensions": "48.3 x 43.4 x 8.7 cm",
+        "features": [
+          "iDRAC9 Enterprise",
+          "OpenManage",
+          "PERC RAID",
+          "Cyber Resilient Architecture"
+        ]
+      },
+      "price_aud": 12000,
+      "supplier_links": [
+        {
+          "supplier": "Dell Australia",
+          "url": "https://www.dell.com/en-au/shop/servers-storage-and-networking/poweredge-r750-rack-server/spd/poweredge-r750",
+          "price": 12000,
+          "availability": "Build to Order"
+        }
+      ]
+    }
+  },
+  "infrastructure": {
+    "apc_smart_ups_srt_5000va": {
+      "model": "APC Smart-UPS SRT 5000VA",
+      "category": "UPS System",
+      "specifications": {
+        "capacity": "5000VA / 4500W",
+        "topology": "Online Double Conversion",
+        "input_voltage": "230V",
+        "battery_runtime": "10 minutes at full load",
+        "outlets": "8x IEC 320 C13, 2x IEC 320 C19",
+        "communication": "SmartSlot, USB, Serial, Network",
+        "dimensions": "68.6 x 43.8 x 17.8 cm",
+        "weight": "61 kg",
+        "features": [
+          "LCD Display",
+          "Network Management",
+          "Hot-Swappable Batteries",
+          "Automatic Voltage Regulation"
+        ]
+      },
+      "price_aud": 4500,
+      "supplier_links": [
+        {
+          "supplier": "APC Australia",
+          "url": "https://www.apc.com/shop/au/en/products/APC-Smart-UPS-SRT-5000VA-230V/P-SRT5KXLI",
+          "price": 4500,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "apc_netshelter_sx_42u": {
+      "model": "APC NetShelter SX 42U",
+      "category": "Server Rack",
+      "specifications": {
+        "height": "42U",
+        "width": "600mm",
+        "depth": "1070mm",
+        "weight_capacity": "1361 kg",
+        "color": "Black",
+        "features": [
+          "Toolless mounting",
+          "Cable management",
+          "Perforated doors",
+          "Adjustable rails"
+        ],
+        "accessories": "Side panels, roof, plinth"
+      },
+      "price_aud": 1800,
+      "supplier_links": [
+        {
+          "supplier": "APC Australia",
+          "url": "https://www.apc.com/shop/au/en/products/NetShelter-SX-42U-600mm-Wide-x-1070mm-Deep-Enclosure-with-Sides-Black/P-AR3100",
+          "price": 1800,
+          "availability": "In Stock"
+        }
+      ]
+    },
+    "panduit_patch_panel_48port": {
+      "model": "Panduit Mini-Com 48-Port",
+      "category": "Patch Panel",
+      "specifications": {
+        "ports": "48 x RJ45 Cat6A",
+        "mounting": "19-inch rack mount",
+        "height": "2U",
+        "cable_management": "Rear cable management bar",
+        "compliance": "TIA-568-C.2, ISO/IEC 11801",
+        "connector_type": "Mini-Com TX6A PLUS"
+      },
+      "price_aud": 250,
+      "supplier_links": [
+        {
+          "supplier": "RS Components",
+          "url": "https://au.rs-online.com/web/p/patch-panels/1251849/",
+          "price": 250,
+          "availability": "In Stock"
+        }
+      ]
+    }
+  }
+}
