@@ -1,4 +1,4 @@
-# SYD Group 03 - COIT20246 Project
+# MEL Group 40 - COIT20246 Project
 **Networking and Cyber Security Project**
 
 ## Group Members
@@ -37,4 +37,5 @@ This project involves designing a comprehensive network infrastructure for Truel
 
 ---
 **Last Updated**: September 8, 2025
+
 **Document Version**: 2.0 (Corrected)
