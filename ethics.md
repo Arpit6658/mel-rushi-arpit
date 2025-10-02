@@ -1,0 +1,10 @@
+Ethical and Social Issues
+The management of the information systems of an electrical contracting business such as Truelec incorporates ethical and social issues in its management. Sensitive information such as HR records, client information and confidential information of projects are stored by the organization and thus need a high level of protection in order to maintain privacy and trust(Duary et al. 2024). Legal requirements, including the Privacy Act 1988 (Australia) and the General Data Protection Regulation (GDPR) to operate globally should be met to make sure that personal data are handled in ways that are legal. In addition to compliance, the company holds a moral role of ensuring that stakeholders are not victimized by their breach of data(Badhon and Aggarwal, 2021). A breach would hurt relationships with clients, project derailment and destroy the confidence of employees. Ethical practice requires informed consent, clarity in the use of the data, and clear accountability measures in case the incident takes place. Focusing on its privacy, fairness, and accountability, Truelec becomes responsible and enhances its image as a safe and reliable company partner in the construction and electrical market.
+
+
+References
+
+Duary, S., Choudhury, P., Mishra, S., Sharma, V., Rao, D.D. and Aderemi, A.P., 2024, February. Cybersecurity threats detection in intelligent networks using predictive analytics approaches. In 2024 4th International Conference on Innovative Practices in Technology and Management (ICIPTM) (pp. 1-5). IEEE. https://www.researchgate.net/profile/Deepak-Dasaratha-Rao/publication/381675573_Cybersecurity_Threats_Detection_in_Intelligent_Networks_using_Predictive_Analytics_Approaches/links/66f58645906bca2ac3cf7cd4/Cybersecurity-Threats-Detection-in-Intelligent-Networks-using-Predictive-Analytics-Approaches.pdf
+
+
+Badhon, A.J. and Aggarwal, D.S., 2021. Cybersecurity in Networking Devices. Journal of Cybersecurity and Information Management, 8, pp.35-41. https://www.researchgate.net/profile/Vijay_Sinha2/publication/355875716_Cybersecurity_in_Networking_Devices/links/618278850be8ec17a964de47/Cybersecurity-in-Networking-Devices.pdf
